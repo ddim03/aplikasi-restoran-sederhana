@@ -10,4 +10,5 @@ aplikasi ini memiliki beberapa fitur yaitu :
 7. pembatalan pesanan.
 8. cetak pesanan.
 9. keluar.
-aplikasi ini masih sangat sederhana, namun kedepanya akan terus saya kembangkan, untuk bahan latihan. 
+
+Aplikasi ini masih sangat sederhana, namun kedepanya akan terus saya kembangkan, untuk bahan latihan. 
